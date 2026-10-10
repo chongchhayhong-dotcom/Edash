@@ -92,7 +92,7 @@ end
 -- [WHITELIST] Only allowed users can use this script
 -- Add friends: WHITELISTED_USERS = {"XxLAGGERx_6", "Friend1"}
 -- Disable whitelist: WHITELIST_ENABLED = false
-local WHITELIST_ENABLED = true
+local WHITELIST_ENABLED = false 
 local WHITELISTED_USERS = {
     "XxLAGGERx_6",
 }
